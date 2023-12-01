@@ -1,6 +1,6 @@
 <h1>Hi, I'm Basile! <br/>
-  <a href="https://github.com/joshmadakor1">Programmer</a>, 
-  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+  <a href="https://github.com/Basile-Mbasha">Programmer</a>, 
+  <a href="https://www.linkedin.com/in/basilembasha/">Cybersecurity Professional</a>
 </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
