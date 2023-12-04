@@ -16,14 +16,27 @@
   - [CompTIA Security+](https://www.credly.com/badges/7af2b51b-fbb1-4bb0-8b99-e5e1b76452ff/public_url)
 - <b>Networking</b>
   - [CCNA](https://github.com/Basile-Mbasha/DrumKit)
+- <b>Cloud computing</b>
+  - [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!---
 <h2>🤳🏻  Connect with me:</h2> 
   
     -[LinkedIn](https://www.linkedin.com/in/basilembasha/) 
-    --->
-    
-
+--->
 <!--
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
