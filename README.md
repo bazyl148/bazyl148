@@ -7,7 +7,7 @@
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ultimate Sketch](https://github.com/Basile-Mbasha/UltimateSketch)
-- <b>Web Development (JS & Bootstrap)</b>
+- <b>Web Development (JavaScript & Bootstrap)</b>
   - [DrumKit](https://github.com/Basile-Mbasha/DrumKit)
  
 <h2>🏅  Certifications:</h2>
