@@ -15,7 +15,7 @@
 - <b>Cybersecurity</b>
   - [CompTIA Security+](https://www.credly.com/badges/7af2b51b-fbb1-4bb0-8b99-e5e1b76452ff/public_url)
 - <b>Networking</b>
-  - [CCNA](https://github.com/Basile-Mbasha/DrumKit)
+  - [Cisco CCNA](https://learningnetwork.cisco.com/s/ccna)
 - <b>Cloud computing</b>
   - [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
