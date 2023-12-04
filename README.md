@@ -3,14 +3,14 @@
   <a href="https://www.linkedin.com/in/basilembasha/">Cybersecurity Professional</a>
 </h1>
 
-<h2>👨🏽‍💻 Software Development Projects:</h2>
+<h2>👨🏽‍💻  Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ultimate Sketch](https://github.com/Basile-Mbasha/UltimateSketch)
 - <b>Web Development (JS & Bootstrap)</b>
   - [DrumKit](https://github.com/Basile-Mbasha/DrumKit)
  
-<h2>🏅 Certifications:</h2>
+<h2>🏅  Certifications:</h2>
 
 - <b>Cybersecurity</b>
   - [CompTIA Security+](https://www.credly.com/badges/7af2b51b-fbb1-4bb0-8b99-e5e1b76452ff/public_url)
