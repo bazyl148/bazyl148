@@ -17,6 +17,12 @@
 - <b>Networking</b>
   - [CCNA](https://github.com/Basile-Mbasha/DrumKit)
 
+<!---
+<h2>🤳🏻  Connect with me:</h2> 
+  
+    -[LinkedIn](https://www.linkedin.com/in/basilembasha/) 
+    --->
+    
 
 <!--
 - <b>PowerShell</b>
