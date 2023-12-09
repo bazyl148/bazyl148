@@ -9,7 +9,9 @@
   - [Ultimate Sketch](https://github.com/Basile-Mbasha/UltimateSketch)
 - <b>Web Development (JavaScript & Bootstrap)</b>
   - [DrumKit](https://github.com/Basile-Mbasha/DrumKit)
- 
+- <b>Network exploration (Python)</b>
+  - [Port scanner](https://github.com/Basile-Mbasha/Port-Scanner)
+
 <h2>🏅  Certifications:</h2>
 
 - <b>Cybersecurity</b>
