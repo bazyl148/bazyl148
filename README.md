@@ -11,7 +11,7 @@
   - [DrumKit](https://github.com/Basile-Mbasha/DrumKit)
 - <b>Network exploration (Python)</b>
   - [Port scanner](https://github.com/Basile-Mbasha/Port-Scanner)
-- <b>Password analysis</b>
+- <b>Password analysis (Python)</b>
   - [Password strength checker](https://github.com/Basile-Mbasha/password-strength-checker/tree/main)
 
 <h2>🏅  Certifications:</h2>
