@@ -5,7 +5,7 @@
 
 <h2>👨🏽‍💻  Software Development Projects:</h2>
 
-- <b>C# (.NET Desktop Applications)</b>
+- <b>C# (.NET Desktop Application)</b>
   - [Ultimate Sketch](https://github.com/Basile-Mbasha/UltimateSketch)
 - <b>Web Development (JavaScript & Bootstrap)</b>
   - [DrumKit](https://github.com/Basile-Mbasha/DrumKit)
