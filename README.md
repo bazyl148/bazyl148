@@ -9,7 +9,7 @@
   - [Ultimate Sketch](https://github.com/Basile-Mbasha/UltimateSketch)
 - <b>Web Development (JavaScript & Bootstrap)</b>
   - [DrumKit](https://github.com/Basile-Mbasha/DrumKit)
-- <b>Network exploration (Python)</b>
+- <b>Network enumeration (Python)</b>
   - [Port scanner](https://github.com/Basile-Mbasha/Port-Scanner)
 - <b>Password analysis (Python)</b>
   - [Password strength checker](https://github.com/Basile-Mbasha/password-strength-checker/tree/main)
