@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/basilembasha/">Cybersecurity Professional</a>
 </h1>
 
-<h2>👨🏽‍💻 &nbsp; Software Development Projects:</h2>
+<h2>👨🏽‍💻 &nbsp; Projects:</h2>
 
 - <b>C# (.NET Desktop Application)</b>
   - [Ultimate Sketch](https://github.com/Basile-Mbasha/UltimateSketch)
