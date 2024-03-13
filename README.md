@@ -25,11 +25,14 @@
 - <b>Cloud computing/security</b>
   - [Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 &nbsp; Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="justify">
+ <a href="https://www.linkedin.com/in/basilembasha">
+    <img alt="Basile Mbasha | LinkedIn" width="50px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
+ </a>
+</p>
 
-[linkedin]: https://www.linkedin.com/in/basilembasha
 
 
 
