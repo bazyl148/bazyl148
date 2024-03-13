@@ -27,7 +27,7 @@
 
 <h2>🤳 &nbsp; Connect with me:</h2>
 
-<p align="justify">
+<p align="center">
  <a href="https://www.linkedin.com/in/basilembasha">
     <img alt="Basile Mbasha | LinkedIn" width="50px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
  </a>
