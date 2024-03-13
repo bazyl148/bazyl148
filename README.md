@@ -20,8 +20,8 @@
   - [CompTIA Security+](https://www.credly.com/badges/7af2b51b-fbb1-4bb0-8b99-e5e1b76452ff/public_url)
 - <b>Networking</b>
   - [Cisco CCNA](https://learningnetwork.cisco.com/s/ccna)
-- <b>Cloud computing</b>
-  - [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- <b>Cloud security</b>
+  - [Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/)
 
 
 
