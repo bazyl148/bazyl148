@@ -13,8 +13,9 @@
   - [Port scanner](https://github.com/Basile-Mbasha/Port-Scanner)
 - <b>Password analysis (Python)</b>
   - [Password strength checker](https://github.com/Basile-Mbasha/password-strength-checker/tree/main)
-- <b>Threat hunting using Azure Sentinel (in build...)</b>
-
+- <b>Threat hunting (project in build...)</b>
+  - [Sentinel & Defender XDR based hunting](https://github.com/Basile-Mbasha/Azure-threat-hunting?tab=readme-ov-file)
+    
 <h2>🏅 &nbsp; Certifications:</h2>
 
 - <b>Cybersecurity</b>
@@ -24,7 +25,9 @@
 - <b>Cloud computing/security</b>
   - [Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/)
 
+<h2>🤳🏻 &nbsp; Connect with me:</h2>
 
+ - &nbsp;<a href="https://www.linkedin.com/in/basilembasha">LinkedIn</a>
 
 
 
