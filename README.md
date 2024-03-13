@@ -13,6 +13,7 @@
   - [Port scanner](https://github.com/Basile-Mbasha/Port-Scanner)
 - <b>Password analysis (Python)</b>
   - [Password strength checker](https://github.com/Basile-Mbasha/password-strength-checker/tree/main)
+- <b>Threat hunting using Azure Sentinel (in build...)</b>
 
 <h2>🏅 &nbsp; Certifications:</h2>
 
