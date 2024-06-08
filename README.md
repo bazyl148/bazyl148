@@ -23,7 +23,7 @@
 - <b>Networking</b>
   - [Cisco CCNA](https://learningnetwork.cisco.com/s/ccna)
 - <b>Cloud computing/security</b>
-  - [Microsoft Security Operations Analyst](https://learn.microsoft.com/en-ca/users/basilem-6586/credentials/certification/security-operations-analyst?tab=credentials-tab)
+  - [Microsoft Security Operations Analyst](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/DDDB9D44BD655D90?sharingId)
 
 <h2>🤳 &nbsp; Connect with me:</h2>
 
