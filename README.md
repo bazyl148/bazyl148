@@ -23,7 +23,8 @@
 - <b>Networking</b>
   - [Cisco CCNA](https://learningnetwork.cisco.com/s/ccna)
 - <b>Cloud computing/security</b>
-  - [Microsoft Security Operations Analyst](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/DDDB9D44BD655D90?sharingId)
+  - [Microsoft Certified: Security Operations Analyst](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/DDDB9D44BD655D90?sharingId)
+  - [Microsoft Certified: Azure Security Engineer (in progress)](https://learn.microsoft.com/en-ca/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)
 
 <h2>🤳 &nbsp; Connect with me:</h2>
 
