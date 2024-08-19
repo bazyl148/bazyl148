@@ -25,6 +25,8 @@
 - <b>Cloud computing/security</b>
   - [Microsoft Certified: Security Operations Analyst](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/DDDB9D44BD655D90?sharingId)
   - [Microsoft Certified: Azure Security Engineer (in progress)](https://learn.microsoft.com/en-ca/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)
+- <b>SIEM Administration</b>
+  - [Applied Skills: Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/en-ca/users/basilem-6586/credentials/8ef40dcac81782dc?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 <h2>🤳 &nbsp; Connect with me:</h2>
 
