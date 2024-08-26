@@ -24,7 +24,7 @@
   - [Cisco CCNA](https://learningnetwork.cisco.com/s/ccna)
 - <b>Cloud computing/security</b>
   - [Microsoft Certified: Security Operations Analyst](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/DDDB9D44BD655D90?sharingId)
-  - [Microsoft Certified: Azure Security Engineer (in progress)](https://learn.microsoft.com/en-ca/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)
+  - [Microsoft Certified: Azure Security Engineer](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/3997DEDAD94F31E?sharingId=B8558196737186B4)
 - <b>SIEM/SOAR Administration</b>
   - [Applied Skills: Deploy and configure Microsoft Sentinel](https://learn.microsoft.com/en-ca/users/basilem-6586/credentials/8ef40dcac81782dc?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
