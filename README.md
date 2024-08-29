@@ -27,6 +27,7 @@
   - [Microsoft Certified: Azure Security Engineer](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/3997DEDAD94F31E?sharingId=B8558196737186B4)
 - <b>SIEM/SOAR Administration</b>
   - [Applied Skills: Deploy and configure Microsoft Sentinel](https://learn.microsoft.com/en-ca/users/basilem-6586/credentials/8ef40dcac81782dc?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+  - [Applied Skills: Secure Azure services and workloads with Microsoft Defender for Cloud](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/59D928D7F3928438?sharingId=B8558196737186B4)
 
 <h2>🤳 &nbsp; Connect with me:</h2>
 
