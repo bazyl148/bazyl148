@@ -25,7 +25,7 @@
 - <b>Cloud computing/security</b>
   - [Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/DDDB9D44BD655D90?sharingId)
   - [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/3997DEDAD94F31E?sharingId=B8558196737186B4)
-  - [Microsoft Certified: Cybersecurity Architect Expert (in progress)](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/?source=recommendations)
+  - [Microsoft Certified: Cybersecurity Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/BasileM-6586/63C9A56A27F6C54B?sharingId=B8558196737186B4)
 - <b>EDR/SIEM/SOAR Administration</b>
   - [Applied Skills: Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/en-ca/users/basilem-6586/credentials/8ef40dcac81782dc?ref=https%3A%2F%2Fwww.linkedin.com%2F)
   - [Applied Skills: Secure Azure services and workloads with Microsoft Defender for Cloud](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/59D928D7F3928438?sharingId=B8558196737186B4)
