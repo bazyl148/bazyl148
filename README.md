@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/basilembasha/">Cybersecurity Professional</a>
 </h1>
 
+
+
+
 <h2>👨🏽‍💻 &nbsp; Projects:</h2>
 
 - <b>C# (.NET Desktop Application)</b>
@@ -50,6 +53,8 @@
 
 
 <!---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&duration=3999&pause=1000&color=000000FE&background=C95E30E3&center=true&vCenter=true&width=435&lines=basile%40pnap%3A~%24+whoami;SOC+Analyst;Security+Researcher+;Technical+Trainer)](https://git.io/typing-svg)
+
 
 **This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h2>🤳🏻  Connect with me:</h2> 
