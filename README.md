@@ -29,12 +29,13 @@
 - <b>Infrastructure security</b>
   - [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/3997DEDAD94F31E?sharingId=B8558196737186B4)
   - [Microsoft Certified: Cybersecurity Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/BasileM-6586/63C9A56A27F6C54B?sharingId=B8558196737186B4)
-- <b>Penetration Testing</b>
-  - [Practical Network Penetration Tester by TCM Security - in progress](https://certifications.tcm-sec.com/pnpt/)
 - <b>EDR/SIEM/SOAR Administration</b>
   - [Applied Skills: Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/en-ca/users/basilem-6586/credentials/8ef40dcac81782dc?ref=https%3A%2F%2Fwww.linkedin.com%2F)
   - [Applied Skills: Secure Azure services and workloads with Microsoft Defender for Cloud](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/59D928D7F3928438?sharingId=B8558196737186B4)
   - [Applied Skills: Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/api/credentials/share/en-us/BasileM-6586/511D330195A0E45C?sharingId=B8558196737186B4)
+- <b>Penetration Testing</b>
+  - [Practical Network Penetration Tester by TCM Security - in progress](https://certifications.tcm-sec.com/pnpt/)
+
 
 <h2>🤳 &nbsp; Connect with me:</h2>
 
