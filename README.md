@@ -23,10 +23,10 @@
 
 - <b>Information Security</b>
   - [CompTIA Security+](https://www.credly.com/badges/7af2b51b-fbb1-4bb0-8b99-e5e1b76452ff/public_url)
+  - [Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/DDDB9D44BD655D90?sharingId)
 - <b>Networking</b>
   - [Cisco CCNA](https://learningnetwork.cisco.com/s/ccna)
-- <b>Cloud computing/security</b>
-  - [Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/DDDB9D44BD655D90?sharingId)
+- <b>Infrastructure security</b>
   - [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/3997DEDAD94F31E?sharingId=B8558196737186B4)
   - [Microsoft Certified: Cybersecurity Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/BasileM-6586/63C9A56A27F6C54B?sharingId=B8558196737186B4)
 - <b>EDR/SIEM/SOAR Administration</b>
