@@ -1,4 +1,4 @@
-<h1>Hi, I'm Basile! <br/>
+<h1>Hi, I'm Basile 👋 <br/>
   <a href="https://github.com/Basile-Mbasha">Programmer</a>, 
   <a href="https://www.linkedin.com/in/basilembasha/">Cybersecurity Professional</a>
 </h1>
