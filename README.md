@@ -4,6 +4,15 @@
        alt="Typing SVG" width="700" style="max-width: 100%;" />
 </p>
 
+<!--
+<p align="center">
+
+![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white&logoSize=auto) 
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/basilembasha)
+[![Static Badge](https://img.shields.io/badge/Email-black?style=flat&logo=gmail&logoColor=red&logoSize=auto)](mailto:basile02@proton.me)
+
+</p>
+-->
 
 <!-- Interactive Links with Icons -->
 <p align="center">
