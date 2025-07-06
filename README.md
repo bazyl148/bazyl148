@@ -7,7 +7,7 @@
 
 <!-- Interactive Links with Icons -->
 <p align="center">
-  <a href="[https://github.com/Basile-Mbasha](https://github.com/bazyl148/)" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Programmer-181717?style=for-the-badge&logo=github" alt="Programmer"/>
   </a>
   <a href="https://www.linkedin.com/in/basilembasha/" target="_blank" rel="noopener noreferrer">
