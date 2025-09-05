@@ -69,7 +69,7 @@
 <h2>🤳 &nbsp; Connect with me:</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/basilembasha" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/basilemb" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" width="40px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
   </a>
 </p>
