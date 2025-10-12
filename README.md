@@ -19,7 +19,7 @@
   <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Programmer-181717?style=for-the-badge&logo=github" alt="Programmer"/>
   </a>
-  <a href="https://www.linkedin.com/in/basilembasha/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/basilemb/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-InfoSec%20Professional-0A66C2?style=for-the-badge&logo=linkedin" alt="InfoSec Professional"/>
   </a>
   <a href="https://www.microsoft.com/en-us/learning/mct-certification.aspx" target="_blank" rel="noopener noreferrer">
