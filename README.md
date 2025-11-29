@@ -92,6 +92,7 @@
 <h2>🤳 &nbsp; Connect with me:</h2>
 
 <p align="justify">
+ <!---
   <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" 
@@ -99,10 +100,18 @@
       style="margin: 0 20px;"
     />
   </a>
+  --->
   <a href="https://www.linkedin.com/in/basilemb/" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.icons8.com/fluency/48/linkedin.png" 
       alt="LinkedIn" 
+      style="margin: 0 20px;"
+    />
+  </a>
+  <a href="https://discord.com/users/909592388828299307" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-discord-chat-for-social-gaming-between-peers-logo-color-tal-revivo.png" 
+      alt="Discord" 
       style="margin: 0 20px;"
     />
   </a>
@@ -120,7 +129,15 @@
       style="margin: 0 20px;"
     />
   </a>
+  <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" 
+      alt="GitHub" 
+      style="margin: 0 20px;"
+    />
+  </a>
 </p>
+
 
 <!-- Dynamic GitHub Stats 
 <p align="center">
