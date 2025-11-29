@@ -14,21 +14,37 @@
 </p>
 -->
 
-<!-- Interactive Links with Icons -->
+<!-- Interactive Social Links with Official Colors and Logos -->
 <p align="center">
   <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Programmer-181717?style=for-the-badge&logo=github" alt="Programmer"/>
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" 
+      alt="GitHub - Programmer" 
+    />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/basilemb/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-InfoSec%20Professional-0A66C2?style=for-the-badge&logo=linkedin" alt="InfoSec Professional"/>
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" 
+      alt="LinkedIn - InfoSec Professional" 
+    />
   </a>
+  &nbsp;
   <a href="https://www.microsoft.com/en-us/learning/mct-certification.aspx" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft-Certified_Trainer-0078D4?style=for-the-badge&logo=microsoft" alt="Microsoft Certified Trainer"/>
+    <img 
+      src="https://img.shields.io/badge/Microsoft-Certified_Trainer-0078D4?style=for-the-badge&logo=microsoft" 
+      alt="Microsoft Certified Trainer" 
+    />
   </a>
-  <a href="mailto:basile02@proton.me" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  &nbsp;
+  <a href="mailto:mbasiler@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Contact%20Me-0078D4?style=for-the-badge&logo=gmail" &logoColor=C48F8F 
+      alt="Outlook - Contact Me" 
+    />
   </a>
 </p>
+
 
 <br>
 <h2>👨🏽‍💻 &nbsp; Projects:</h2>
