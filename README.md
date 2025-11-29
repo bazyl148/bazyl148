@@ -1,7 +1,7 @@
 <!-- Typing SVG Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=0A0A0AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;basile%40pnap:~%24+whoami;I'm+Basile+%F0%9F%91%8B;A+(retired)+front+end+developer+%F0%9F%98%84;Cloud+Security+Advisor+%F0%9F%9B%A1;Vuln/Security+Researcher+%F0%9F%94%8D+%F0%9F%AA%B2;Microsoft+Certified+Trainer+%F0%9F%93%9A" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=0A0A0AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;basile%40pnap:~%24+whoami;I'm+Basile+%F0%9F%91%8B;A+(former)+web+developer+%F0%9F%8C%90;turned...;Cloud+Security+Advisor+%F0%9F%9B%A1;Vuln/Security+Researcher+%F0%9F%94%8D+%F0%9F%AA%B2;Microsoft+Certified+Trainer+%F0%9F%93%9A" 
     alt="Typing SVG" 
     width="700" 
     style="max-width: 100%;" 
@@ -91,7 +91,7 @@
 <br>
 <h2>🤳 &nbsp; Connect with me:</h2>
 
-<p align="center">
+<p align="justify">
   <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" 
