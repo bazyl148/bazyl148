@@ -14,33 +14,33 @@
 </p>
 -->
 
-<!-- Interactive Social Links with Official Colors and Logos -->
 <p align="center">
   <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" 
-      alt="GitHub - Programmer" 
+      src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" 
+      alt="GitHub" 
+      style="margin: 0 20px;"
     />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/basilemb/" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" 
-      alt="LinkedIn - InfoSec Professional" 
+      src="https://img.icons8.com/fluency/48/linkedin.png" 
+      alt="LinkedIn" 
+      style="margin: 0 20px;"
     />
   </a>
-  &nbsp;
   <a href="https://www.microsoft.com/en-us/learning/mct-certification.aspx" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/Microsoft-Certified_Trainer-0078D4?style=for-the-badge&logo=microsoft" 
+      src="https://img.icons8.com/fluency/48/microsoft.png" 
       alt="Microsoft Certified Trainer" 
+      style="margin: 0 20px;"
     />
   </a>
-  &nbsp;
   <a href="mailto:mbasiler@outlook.com" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/Contact%20Me-0078D4?style=for-the-badge&logo=gmail" &logoColor=C48F8F 
-      alt="Outlook - Contact Me" 
+      src="https://img.icons8.com/fluency/48/mail--v1.png" 
+      alt="Email" 
+      style="margin: 0 20px;"
     />
   </a>
 </p>
