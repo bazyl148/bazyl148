@@ -14,6 +14,7 @@
 </p>
 -->
 
+<!-- Logos
 <p align="center">
   <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
     <img 
@@ -44,7 +45,7 @@
     />
   </a>
 </p>
-
+-->
 
 <br>
 <h2>👨🏽‍💻 &nbsp; Projects:</h2>
