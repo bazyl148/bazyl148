@@ -87,12 +87,36 @@
 <br>
 <h2>🤳 &nbsp; Connect with me:</h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/basilemb" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" width="40px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
+<p align="center">
+  <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" 
+      alt="GitHub" 
+      style="margin: 0 20px;"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/basilemb/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/fluency/48/linkedin.png" 
+      alt="LinkedIn" 
+      style="margin: 0 20px;"
+    />
+  </a>
+  <a href="https://www.microsoft.com/en-us/learning/mct-certification.aspx" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/fluency/48/microsoft.png" 
+      alt="Microsoft Certified Trainer" 
+      style="margin: 0 20px;"
+    />
+  </a>
+  <a href="mailto:mbasiler@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/fluency/48/mail--v1.png" 
+      alt="Email" 
+      style="margin: 0 20px;"
+    />
   </a>
 </p>
-<br>
 
 <!-- Dynamic GitHub Stats 
 <p align="center">
