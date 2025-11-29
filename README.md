@@ -89,7 +89,7 @@
   - [Practical Network Penetration Tester by TCM Security - in progress](https://certifications.tcm-sec.com/pnpt/)
 
 <br>
-<h2>🤳 &nbsp; Connect with me:</h2>
+<h2>🤳 &nbsp; Let's connect:</h2>
 
 <p align="justify">
  <!---
