@@ -1,7 +1,11 @@
-<!-- Typing SVG Header (dynamic and interactive) -->
+<!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=0A0A0AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;basile%40pnap:~%24+whoami;I'm+Basile+%F0%9F%91%8B;A+(retired)+front+end+developer+%F0%9F%98%84;InfoSec+Professional+%F0%9F%94%91;Microsoft+Certified+Trainer+%F0%9F%93%9A;Cloud+Security+Enthusiast+%E2%98%81%EF%B8%8F"
-       alt="Typing SVG" width="700" style="max-width: 100%;" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=0A0A0AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;basile%40pnap:~%24+whoami;I'm+Basile+%F0%9F%91%8B;A+(retired)+front+end+developer+%F0%9F%98%84;Cloud+Security+Advisor+%F0%9F%9B%A1;Vuln/Security+Researcher+%F0%9F%94%8D+%F0%9F%AA%B2;Microsoft+Certified+Trainer+%F0%9F%93%9A" 
+    alt="Typing SVG" 
+    width="700" 
+    style="max-width: 100%;" 
+  />
 </p>
 
 <!--
