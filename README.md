@@ -92,47 +92,42 @@
 <h2>🤳 &nbsp; Let's connect:</h2>
 
 <p align="justify">
- <!---
-  <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
+    <a href="https://techcommunity.microsoft.com/users/basile/2741430" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" 
-      alt="GitHub" 
-      style="margin: 0 20px;"
-    />
-  </a>
-  --->
-  <a href="https://www.linkedin.com/in/basilemb/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.icons8.com/fluency/48/linkedin.png" 
-      alt="LinkedIn" 
-      style="margin: 0 20px;"
-    />
-  </a>
-  <a href="https://discord.com/users/909592388828299307" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-discord-chat-for-social-gaming-between-peers-logo-color-tal-revivo.png" 
-      alt="Discord" 
-      style="margin: 0 20px;"
-    />
-  </a>
-  <a href="https://www.microsoft.com/en-us/learning/mct-certification.aspx" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.icons8.com/fluency/48/microsoft.png" 
+      src="https://img.icons8.com/dusk/48/teacher.png" 
       alt="Microsoft Certified Trainer" 
       style="margin: 0 20px;"
     />
   </a>
+
+   <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/pulsar-line/48/github.png" 
+      alt="GitHub" 
+      style="margin: 0 20px;"
+    />
+  </a>
+  
+  <a href="https://discord.com/users/909592388828299307" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/pulsar-gradient/48/discord-logo.png" 
+      alt="Discord" 
+      style="margin: 0 20px;"
+    />
+  </a>
+
   <a href="mailto:mbasiler@outlook.com" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.icons8.com/fluency/48/mail--v1.png" 
+      src="https://img.icons8.com/dusk/48/email.png" 
       alt="Email" 
       style="margin: 0 20px;"
     />
   </a>
-  <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
+
+  <a href="https://www.linkedin.com/in/basilemb/" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" 
-      alt="GitHub" 
+      src="https://img.icons8.com/doodle/48/linkedin--v2.png" 
+      alt="LinkedIn" 
       style="margin: 0 20px;"
     />
   </a>
