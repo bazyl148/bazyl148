@@ -113,7 +113,7 @@
       style="margin: 0 30px;"
     />
   </a>
-    <a href="https://www.linkedin.com/in/basilemb/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/basilemb" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.icons8.com/doodle/38/linkedin--v2.png" 
       alt="LinkedIn" 
