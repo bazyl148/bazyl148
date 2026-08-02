@@ -72,6 +72,7 @@
 
 - <b>Information Security</b>  
   - [CompTIA Security+](https://www.credly.com/badges/7af2b51b-fbb1-4bb0-8b99-e5e1b76452ff/public_url)
+  - [Microsoft Certified: Cybersecurity Business Professional](https://learn.microsoft.com/en-ca/users/basilem-6586/credentials/d2c9b45bb695802e)
 - <b>Networking</b>  
   - [Cisco CCNA](https://learningnetwork.cisco.com/s/ccna)
 - <b>Security Operations</b>  
