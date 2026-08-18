@@ -1,57 +1,48 @@
 <!-- Typing SVG Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=0A0A0AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;basile%40pnap:~%24+whoami;I'm+Basile+%F0%9F%91%8B;A+(former)+web+developer+%F0%9F%8C%90;turned...;Cloud+Security+Advisor+%F0%9F%9B%A1;Vuln/Security+Researcher+%F0%9F%94%8D+%F0%9F%AA%B2;Microsoft+Certified+Trainer+%F0%9F%93%9A" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=0A0A0AFF&center=true&vCenter=true&width=700&lines=basile%40pnap:~%24+whoami;Cloud+Security+Advisor+%F0%9F%9B%A1%EF%B8%8F;Vulnerability+%2F+Threat+Researcher+%F0%9F%94%8D;Microsoft+Certified+Trainer+%F0%9F%93%9A;(Former)+Web+Developer+%F0%9F%8C%90" 
     alt="Typing SVG" 
     width="700" 
-    style="max-width: 100%;" 
   />
 </p>
 
-<!--
 <p align="center">
-
-![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white&logoSize=auto) 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/basilembasha)
-[![Static Badge](https://img.shields.io/badge/Email-black?style=flat&logo=gmail&logoColor=red&logoSize=auto)](mailto:basile02@proton.me)
-
-</p>
--->
-
-<!-- Logos
-<p align="center">
-  <a href="https://github.com/bazyl148" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/36/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" 
-      alt="GitHub" 
-      style="margin: 0 20px;"
-    />
+  <a href="https://www.linkedin.com/in/basilemb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/basilemb/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.icons8.com/fluency/36/linkedin.png" 
-      alt="LinkedIn" 
-      style="margin: 0 20px;"
-    />
+  <a href="mailto:mbasiler@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.microsoft.com/en-us/learning/mct-certification.aspx" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.icons8.com/fluency/36/microsoft.png" 
-      alt="Microsoft Certified Trainer" 
-      style="margin: 0 20px;"
-    />
+  <a href="https://techcommunity.microsoft.com/users/basile/2741430" target="_blank">
+    <img src="https://img.shields.io/badge/MCT-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
-  <a href="mailto:mbasiler@outlook.com" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.icons8.com/fluency/48/mail--v1.png" 
-      alt="Email" 
-      style="margin: 0 20px;"
-    />
+  <a href="https://discord.com/users/909592388828299307" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
--->
 
+<p align="center">
+  📍 Sherbrooke, QC &nbsp;·&nbsp; 🛡️ Cloud Security Advisor @ Desjardins &nbsp;·&nbsp; 🐛 Bug Bounty Hunter
+</p>
+</br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Defender_XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdStrike-E01818?style=flat-square&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL%2FKQL-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+</p>
 <br>
+
 <h2>👨🏽‍💻 &nbsp; Projects:</h2>
 
 - <b>C# (.NET Desktop Application)</b>  
@@ -91,8 +82,8 @@
   - [Microsoft AI Transformation Leader](https://learn.microsoft.com/api/credentials/share/en-ca/BasileM-6586/D485CF16F546426A?sharingId=B8558196737186B4)
 - <b>Penetration Testing</b>  
   - [Practical Network Penetration Tester by TCM Security - in progress](https://certifications.tcm-sec.com/pnpt/)
-
 <br>
+
 <h2>🤳 &nbsp; Let's connect:</h2>
 
 <p align="justify">
