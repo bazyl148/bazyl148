@@ -7,6 +7,7 @@
   />
 </p>
 
+<!--
 <p align="center">
   <a href="https://www.linkedin.com/in/basilemb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,11 +22,12 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+-->
 
 <p align="center">
   📍 Sherbrooke, QC &nbsp;·&nbsp; 🛡️ Cloud Security Advisor @ Desjardins &nbsp;·&nbsp; 🐛 Bug Bounty Hunter
 </p>
-</br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
@@ -41,8 +43,8 @@
   <img src="https://img.shields.io/badge/SQL%2FKQL-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
-<br>
-
+</br>
+ 
 <h2>👨🏽‍💻 &nbsp; Projects:</h2>
 
 - <b>C# (.NET Desktop Application)</b>  
