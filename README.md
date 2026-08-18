@@ -22,11 +22,11 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
--->
 
 <p align="center">
   📍 Sherbrooke, QC &nbsp;·&nbsp; 🛡️ Cloud Security Advisor @ Desjardins &nbsp;·&nbsp; 🐛 Bug Bounty Hunter
 </p>
+-->
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
