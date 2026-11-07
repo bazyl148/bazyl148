@@ -46,16 +46,15 @@
 <h2>👨🏽‍💻 &nbsp; Projects:</h2>
 
 - <b>AI security: RAG defense layer (Python)</b>  
-  &nbsp;&nbsp;[CyberAware: stopping knowledge-base poisoning, tested on AIGoat](https://github.com/bazyl148/CyberAwareBU)
-- <b>C# (.NET Desktop Application)</b>  
-  &nbsp;&nbsp;[Ultimate Sketch](https://github.com/Basile-Mbasha/UltimateSketch)
-- <b>Web Development (JavaScript & Bootstrap)</b>  
-  &nbsp;&nbsp;[DrumKit](https://github.com/Basile-Mbasha/DrumKit)
+  &nbsp;&nbsp;[CyberAware: stopping knowledge-base poisoning](https://github.com/bazyl148/CyberAwareBU)
 - <b>Network enumeration (Python)</b>  
   &nbsp;&nbsp;[Port scanner](https://github.com/Basile-Mbasha/Port-Scanner)
 - <b>Password analysis (Python)</b>  
   &nbsp;&nbsp;[Password strength checker](https://github.com/Basile-Mbasha/password-strength-checker/tree/main)
-
+- <b>C# (.NET Desktop Application)</b>  
+  &nbsp;&nbsp;[Ultimate Sketch](https://github.com/Basile-Mbasha/UltimateSketch)
+- <b>Web Development (JavaScript & Bootstrap)</b>  
+  &nbsp;&nbsp;[DrumKit](https://github.com/Basile-Mbasha/DrumKit)
 
 
 <br>
